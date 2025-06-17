@@ -36,6 +36,7 @@ This is the list of features provided by this module. When applicable, the relev
 ## How it works
 
 ### Requirements
+
 * [Terraform](https://learn.hashicorp.com/terraform/getting-started/install.html) >= 0.11
 
 ### Usage
